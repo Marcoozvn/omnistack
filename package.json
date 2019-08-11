@@ -1,0 +1,8 @@
+{
+  "name": "frontend",
+  "version": "1",
+  "main": "index.js",
+  "repository": "https://github.com/Marcoozvn/omnistack.git",
+  "author": "<marcos.cesar@ccc.ufcg.edu.br>",
+  "license": "MIT"
+}
